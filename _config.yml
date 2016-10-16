@@ -105,7 +105,7 @@ kramdown:
 defaults:
   -
     scope:
-      path: "aboutme" # all files
+      path: "calc-road" # all files
     values:
       layout: "page"
       show-avatar: true
