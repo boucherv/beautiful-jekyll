@@ -16,18 +16,18 @@ Voici l'état d'avancement de cette partie :
 
 # Interface
 
-## Simulation 
+##Simulation 
 Voici l'état d'avancement de cette partie :
-[INTERFACE](http://interface.calc-road.itsp.pro/index)
+[SIMULATION](http://interface.calc-road.itsp.pro/index)
 
-## Admin
+##Admin
 Voici l'état d'avancement de cette partie (test@test.com:
 [INTERFACE](http://admin.calc-road.itsp.pro)
 
-Pour s'y connecter, veuillez utiliser le login : test@test.com et le mot de passe : test
+Pour s'y connecter, veuillez utiliser le login : **test@test.com** et le mot de passe : **test**
 
 
-# Edition
+#Edition
 
 L'édition permet d'éditer une carte :
 [EDITION](http://edition.calc-road.itsp.pro/test.html)
