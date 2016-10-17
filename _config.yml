@@ -103,7 +103,7 @@ kramdown:
 defaults:
   -
     scope:
-      path: "calc-road" # all files
+      path: "calc-road.md" # all files
     values:
       layout: "page"
       show-avatar: true
