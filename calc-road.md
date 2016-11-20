@@ -13,13 +13,6 @@ La vision micro permet de voir le trafic voiture par voiture
 Voici l'état d'avancement de cette partie :
 [MICRO](http://micro.calc-road.itsp.pro)
 
-## Macro
-
-La vision macro permet d'avoir une vue globale des points de congestion
-
-Voici l'état d'avancement de cette partie :
-[MACRO](http://macro.calc-road.itsp.pro/map)
-
 # Interface
 
 ## Edition
