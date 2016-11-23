@@ -6,16 +6,6 @@ subtitle: Dans cette page vous allez pouvoir suivre l'évolution de Calc-Road, l
 
 # Simulation 
 
-## Micro
-
-La vision micro permet de voir le trafic voiture par voiture
-
-Voici l'état d'avancement de cette partie :
-[MICRO](http://micro.calc-road.itsp.pro)
-
-# Interface
-
-## Edition
 Voici l'état d'avancement de l'interface de simulation :
 [SIMULATION](http://interface.calc-road.itsp.pro)
 
