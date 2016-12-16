@@ -11,12 +11,18 @@ Voici l'état d'avancement du simulateur de trafic :
 
 Pour s'y connecter, veuillez utiliser le login : **test@test.com** et le mot de passe : **test**
 
-#Livrables
+
+
+
+
+# Livrables
 
 Guide d'installation :
+
 * [Déploiement](calc_road-deploi.pdf)
 
 Packages requis pour l'installation :
+
 * [calc-road_DB.tar.gz](calc-road_DB.tar.gz)
 
 * [pegase.tar.gz](pegase.tar.gz)
