@@ -4,22 +4,24 @@ title: Calc-Road
 subtitle: Dans cette page vous allez pouvoir suivre l'évolution de Calc-Road, le simulateur de trafic
 ---
 
-# Simulation 
+# Démo
 
-Voici l'état d'avancement de l'interface de simulation :
-[SIMULATION](http://interface.calc-road.itsp.pro)
+Voici l'état d'avancement du simulateur de trafic :
+[SITE](http://interface.calc-road.itsp.pro)
 
 Pour s'y connecter, veuillez utiliser le login : **test@test.com** et le mot de passe : **test**
 
-# Livrables
+#Livrables
 
-[Déploiement](calc_road-deploi.pdf)
+Guide d'installation :
+* [Déploiement](calc_road-deploi.pdf)
 
-[calc-road_DB.tar.gz](calc-road_DB.tar.gz)
+Packages requis pour l'installation :
+* [calc-road_DB.tar.gz](calc-road_DB.tar.gz)
 
-[pegase.tar.gz](pegase.tar.gz)
+* [pegase.tar.gz](pegase.tar.gz)
 
-[rusquet.tar.gz](rusquet.tar.gz)
+* [rusquet.tar.gz](rusquet.tar.gz)
 
 
 
