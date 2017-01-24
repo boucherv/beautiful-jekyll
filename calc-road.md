@@ -9,13 +9,13 @@ subtitle: Dans cette page vous allez pouvoir suivre l'évolution de Calc-Road, l
 Voici l'état d'avancement du simulateur de trafic :
 [SITE](http://interface.calc-road.itsp.pro)
 
-Pour s'y connecter, veuillez utiliser le login : **test@test.com** et le mot de passe : **test**
+Pour s'y connecter, veuillez utiliser le login : **moa@enssat.fr** et le mot de passe : **test**
 
 
 
 
 
-# Livrables
+# Livrables (Version 1)
 
 Guide d'installation :
 
@@ -28,10 +28,3 @@ Packages requis pour l'installation :
 * [pegase.tar.gz](pegase.tar.gz)
 
 * [rusquet.tar.gz](rusquet.tar.gz)
-
-
-
-
-
-
-
