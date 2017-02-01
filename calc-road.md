@@ -13,18 +13,16 @@ Pour s'y connecter, veuillez utiliser le login : **moa@enssat.fr** et le mot de 
 
 
 
-
-
-# Livrables (Version 1)
+# Livrables (Version 2)
 
 Guide d'installation :
 
-* [Déploiement](calc_road-deploi.pdf)
+* [Déploiement](v2/calc_road-deploi.pdf)
 
 Packages requis pour l'installation :
 
-* [calc-road_DB.tar.gz](calc-road_DB.tar.gz)
+* [calc-road_DB.tar.gz](v2/calc-road_DB.tar.gz)
 
-* [pegase.tar.gz](pegase.tar.gz)
+* [pegase.tar.gz](v2/pegase.tar.gz)
 
-* [rusquet.tar.gz](rusquet.tar.gz)
+* [rusquet.tar.gz](v2/rusquet.tar.gz)
